@@ -14,7 +14,7 @@
 
 - [Predicting The Functionality of Water Pumps in Tanzania](https://github.com/al-hernandez/TanzaniaWaterPumps)
 - [Text Analysis of BBC News Articles](https://github.com/al-hernandez/NewsTextAnalysis)
-- [Big Mac Prices](https://github.com/al-hernandez/NewsTextAnalysis)
+- [Big Mac Prices](https://github.com/al-hernandez/BigMacPrices)
 
 
 
