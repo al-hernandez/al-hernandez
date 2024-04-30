@@ -3,16 +3,16 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>💻 Web Development</b>
-  - [Washington DC Trip](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Washington DC Trip](https://github.com/al-hernandez/WashingtonDCRegistration)
 - <b>📱 Mobile App</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/TanzaniaWaterPumps)
 - <b>🎮 3D Video Game</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/TanzaniaWaterPumpsb)
 
 
 <h2>📊 Data Science Projects</h2>
 
-- [Predicting the functionality of Water Pumps in Tanzania](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Predicting The Functionality of Water Pumps in Tanzania](https://github.com/al-hernandez/TanzaniaWaterPumps)
 - [Natural Language Porcessing](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Sentiment Analysis](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Health Supplements](https://www.youtube.com/watch?v=OfvdQeh79s0)
