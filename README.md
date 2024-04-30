@@ -5,9 +5,9 @@
 - <b>💻 Web Development</b>
   - [Washington DC Trip](https://github.com/al-hernandez/WashingtonDCRegistration)
 - <b>📱 Mobile App</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/TanzaniaWaterPumps)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/VehicleMaintenanceApp)
 - <b>🎮 3D Video Game</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/TanzaniaWaterPumpsb)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/al-hernandez/3DVideoGame)
 
 
 <h2>📊 Data Science Projects</h2>
