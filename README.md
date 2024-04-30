@@ -13,8 +13,8 @@
 <h2>📊 Data Science Projects</h2>
 
 - [Predicting The Functionality of Water Pumps in Tanzania](https://github.com/al-hernandez/TanzaniaWaterPumps)
-- [Natural Language Porcessing](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Sentiment Analysis](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Text Analysis of BBC News Articles.](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Reddit Sentiment Analysis](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Health Supplements](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
