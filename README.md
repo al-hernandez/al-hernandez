@@ -12,9 +12,12 @@
 
 <h2>📊 Data Science Projects</h2>
 
-- [Predicting The Functionality of Water Pumps in Tanzania](https://github.com/al-hernandez/TanzaniaWaterPumps)
-- [Text Analysis of BBC News Articles](https://github.com/al-hernandez/NewsTextAnalysis)
-- [Big Mac Prices](https://github.com/al-hernandez/BigMacPrices)
+- <b>🧮 Machine Learning</b>
+  - [Predicting The Functionality of Water Pumps in Tanzania](https://github.com/al-hernandez/TanzaniaWaterPumps)
+- <b>📖 Natural Language Processing</b>
+   - [Text Analysis of BBC News Articles](https://github.com/al-hernandez/NewsTextAnalysis)
+- <b>👓 Data Visualization</b>
+   - [Big Mac Prices](https://github.com/al-hernandez/BigMacPrices)
 
 
 
