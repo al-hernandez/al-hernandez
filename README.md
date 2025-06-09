@@ -1,6 +1,6 @@
 <h1>Alberto Hernandez</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🛠️ Software Development Projects:</h2>
 
 - <b>💻 Web Development</b>
   - [Washington DC Trip](https://github.com/al-hernandez/WashingtonDCRegistration)
